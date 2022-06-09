@@ -1,4 +1,4 @@
-module github.com/wangzhuzhen/keda-api
+module github.com/wangzhuzhen/external-repo/keda-api
 
 go 1.16
 
